@@ -2,7 +2,7 @@
 
 <template>
   <div>
-
+    Медитации
   </div>
 </template>
 
